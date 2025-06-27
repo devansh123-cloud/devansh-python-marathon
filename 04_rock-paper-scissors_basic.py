@@ -1,6 +1,3 @@
-# Choose (rock/paper/scissors): rock  
-# Computer chose: scissors  
-# You win! 🎉
 
 import random
 #define choice
