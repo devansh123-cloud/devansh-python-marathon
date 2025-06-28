@@ -1,20 +1,4 @@
-# --- PyCalculator ---
-# Choose operation (+, -, *, /) or type 'exit' to quit
-# Operation: +
-# Enter first number: 10
-# Enter second number: 5
-# Result: 15.0 ✅
 
-# Operation: *
-# Enter first number: 4
-# Enter second number: 0
-# Result: 0.0 ✅
-
-# Operation: hello
-# ❌ Invalid operation. Try again.
-
-# Operation: exit
-# Thanks for using PyCalculator!
 
 print("--- PyCalculator Intermediate ---")
 while True:
