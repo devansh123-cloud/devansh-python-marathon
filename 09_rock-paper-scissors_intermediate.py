@@ -1,24 +1,3 @@
-# 🎮 Rock Paper Scissors – Best of 3
-
-# Round 1
-# Choose (rock/paper/scissors): rock  
-# Computer chose: paper  
-# You lose this round 😢
-
-# Round 2  
-# Choose (rock/paper/scissors): scissors  
-# Computer chose: paper  
-# You win this round! 🎉
-
-# Round 3  
-# Choose (rock/paper/scissors): rock  
-# Computer chose: scissors  
-# You win this round! 🎉
-
-# 🧮 Final Score:  
-# You: 2 | Computer: 1  
-# 🏆 You won the game!
-# 
 
 import random
 choices = ["rock", "paper", "scissors"]
