@@ -5,7 +5,6 @@ print("🎲 Welcome to Number Guessing Game!")
 while True:
     secret = random.randint(1, 20)
     tries = 0
-
     print("\nI'm thinking of a number between 1 and 20...")
 
     while True:
