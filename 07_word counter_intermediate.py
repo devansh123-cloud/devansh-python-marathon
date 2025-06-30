@@ -1,7 +1,6 @@
 # This Python script is a word counter program that takes input from the user, analyzes the text, and
 # then displays various statistics about the input text. Here's a breakdown of what the script does:
 import sys
-
 print("📄 Word Counter Intermediate Version")
 print("✍️ Enter your text below (press Ctrl+Z + Enter on Windows OR Ctrl+D on Mac/Linux to finish):\n")
 
